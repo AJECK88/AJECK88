@@ -1,6 +1,6 @@
 ## Hi  I'm DANTI Tech👋
 📚Am a computer science student in the Universty of LAHIBA Cameroon<br/>
-I'm currently working on a ACT's web site that can is transportation and also avoid dalayers <br/>
+I'm currently working on a ACT's web site that can facilited transportation and also avoid dalayers <br/>
 I'm also learn some frame works like react.Js and MySQML<br/>
 🧑‍💻Am software developer who is passionnat in creativity and growth. I love what i do <br/>
 
